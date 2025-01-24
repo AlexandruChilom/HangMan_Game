@@ -9,5 +9,6 @@ public class Game {
         // Task6 : Introdu un loop ( while ) care repeta de la task-ul 4
         System.out.println(">>>>>>> Welcome to Hangman! <<<<<<<");
         String word = "airplane";
+        
     }
 }
