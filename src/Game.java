@@ -7,5 +7,7 @@ public class Game {
         // Task4 : Cere de la user o litera
         // Task5 : Verifica daca litera introdusa exista in cuvant si inlocuieste steluta din array la indexul respectiv
         // Task6 : Introdu un loop ( while ) care repeta de la task-ul 4
+
+        System.out.println(">>>>>>> Welcome to Hangman <<<<<<<");
     }
 }
